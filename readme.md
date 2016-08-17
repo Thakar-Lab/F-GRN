@@ -42,10 +42,12 @@ Prerequisites for running F-GRN:
 
 1. If you have Matlab installed: 
 
+
    Verify the MATLAB Runtime is installed and ensure you    
    have installed version 9.0.1 (R2016a).   
 
    If the MATLAB Runtime is not installed, do the following:
+   
    (a) enter
   
       >>mcrinstaller
@@ -55,9 +57,11 @@ Prerequisites for running F-GRN:
 
    (b) run the MATLAB Runtime installer.
    
+   
 
 2.  If you do not have Matlab: 
    
+
    For convenience, Matlab Runtime compiler has been embedded with F-GRN as a single package that installs both FGRN and Matlab
    compiler. (No further download/installation is needed for Matlab compiler). 
 
