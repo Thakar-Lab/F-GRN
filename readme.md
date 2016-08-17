@@ -50,7 +50,7 @@ Prerequisites for running F-GRN:
    
    (a) enter
   
-      >>mcrinstaller
+       mcrinstaller
       
       at MATLAB prompt. The MCRINSTALLER command displays the 
       location of the MATLAB Runtime installer.
