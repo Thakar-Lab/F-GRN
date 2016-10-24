@@ -72,7 +72,7 @@ Prerequisites for running FIGS:
    Windows 64-bit version of the MATLAB Runtime for R2016a from the MathWorks Web site.
    
    Please be patient during the installation process as it may take several minutes depending on your speed and connection. 
-   Matlab Runtime compiler is about ~900Mb in size that is downloaded and installed during the installation of 'F-GRN.exe'.     
+   Matlab Runtime compiler is about ~900Mb in size that is downloaded and installed during the installation of 'FIGS.exe'.     
 
    
     For more information about the MATLAB Runtime and the MATLAB Runtime installer, 
