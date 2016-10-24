@@ -27,7 +27,7 @@ Other interesting projects of Thakar Lab can be accessed at: http://www.bio-netw
  ================================
  
  
- Files required for running F-GRN package:
+ Files required for running FIGS package:
  
  
  -FIGS.exe
