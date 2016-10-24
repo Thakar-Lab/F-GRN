@@ -21,7 +21,7 @@ Email: juilee_thakar@urmc.rochester.edu
 https://www.urmc.rochester.edu/labs/thakar-lab/
 
 
-Other interesting projects of Thakar Lab can be accessed at: http://www.bio-networks.com/ 
+Other projects of Thakar Lab can be accessed at: http://www.bio-networks.com/ 
 
  
  ================================
