@@ -12,7 +12,7 @@ Dr. Juilee Thakar
 
 601 Elmwood Avenue,
 
-Rochester, NY 14618.
+Rochester, NY 14642.
 
 Phone: 5852766925
 
