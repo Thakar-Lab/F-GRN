@@ -5,7 +5,7 @@ Fuzzy Inference of Gene-Sets (FIGS)
 
 
 
-FIGS implements fuzzy c-means clustering algorithm to identify functionally related genes (gene-sets). FIGS is developed in Matlab as an installable package. FIGS allows user to identify gene signatures in human monocyte derived dendritic cell and A549 epithelial cells  responsive to influenza infection. This interactive package is developed by Thakar Lab located at the University of Rochester Medical Center, Rochester, New York. For futher information regarding FIGS, please contact: 
+FIGS implements optimized fuzzy c-means clustering algorithm to identify functionally related genes (gene-sets). FIGS is developed in Matlab as an installable package (the source code will be realease very soon). FIGS allows user to identify gene signatures in human monocyte derived dendritic cell and A549 epithelial cells  responsive to influenza infection. This interactive package is developed by Atif Khan Ph.D., Dejan Katanic and Juilee Thakar Ph.D. located at the University of Rochester Medical Center, Rochester, New York. For futher information regarding FIGS, please contact: 
 
  
 Dr. Juilee Thakar 
