@@ -79,15 +79,3 @@ Prerequisites for running FIGS:
     see Package and Distribute in the MATLAB Compiler documentation in the MathWorks Documentation Center.    
 
     http://www.mathworks.com/products/compiler/mcr/index.html
-
-   
-
-
-
-
-
-
-
-
-
-
